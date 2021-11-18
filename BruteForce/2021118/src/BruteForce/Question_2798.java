@@ -1,10 +1,10 @@
-package BrueForce;
+package BruteForce;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /** 
- * 백준 BrueForce 알고리즘 2798번 문제
+ * 백준 BruteForce 알고리즘 2798번 문제
  * 블랙잭 구하는 공식이다 
  * 
  * Test용이 하기 위해 str, str2 직접 입력값 추가 하였다
@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  * 
  * result 5,7,9 
  *  더해진 값들중 블랙잭에 제일 가까운 수는 21이다 
- * 
+ * d
  * 모든 경우를 탐색한다. 
  * 브루트포스 
  * 시간복잡도 O(N3)
